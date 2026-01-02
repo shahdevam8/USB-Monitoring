@@ -1,4 +1,4 @@
-# 🔐 USB Device Control & Monitoring Framework – V2
+# 🔐 USB Device Monitoring and control device
 
 A complete **Windows USB security framework** that monitors USB devices in real time, auto-blocks unauthorized devices, audits activity, and displays everything in a live GUI dashboard.
 
